@@ -195,6 +195,7 @@ footer {
 }
 
 .social-media-icon a {
+    color: #FFFFFF;
     font-size: 40px;
     margin: 0 15px;
 }
@@ -298,6 +299,7 @@ footer {
     }
 
     .footer-tag a {
+        color: #FFFFFF;
         margin: 0 5px;
     }
 }
@@ -409,6 +411,7 @@ footer {
     }
 
     .social-media-icon a {
+        color: #FFFFFF;
         font-size: 20px;
         margin-top: 5px;
         margin-left: 15px;
